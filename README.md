@@ -23,16 +23,16 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahkhnefer&show_icons=true&locale=en&layout=compact" alt="salahkhnefer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahkhenfer&show_icons=true&locale=en&layout=compact" alt="salahkhenfer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salahkhnefer&show_icons=true&locale=en" alt="salahkhnefer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salahkhenfer&show_icons=true&locale=en" alt="salahkhenfer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salahkhnefer&" alt="salahkhnefer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salahkhenfer&" alt="salahkhenfer" /></p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=salahkhenfer&&theme=xcode)](https://github.com/salahkhenfer)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahkhenfer&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="salahkhenfer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salahkhenfer&show_icons=true&locale=en&theme=tokyonight" alt="salahkhenfer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salahkhenfer&&theme=tokyonight" alt="salahkhenfer" /></p>
